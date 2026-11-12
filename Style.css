@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+.title{
+    font-size: 40px;
+    border: 10px;
+    border-color: grey;
+    border-style: outset;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    font-size:larger;
+}
+.imagestext{
+    text-align: center;
+    font-size:large;   
+}
+.jeb{
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    border: 7px;
+    border-style:inset;
+    border-color: grey;
+    margin-left:25px;
+    margin-right:25px;
+}
+a{
+    color:rgb(85, 189, 224);
+    margin-left:250px;
+    margin-right:250px;
+}
